@@ -11,7 +11,7 @@ Also check out our [homepage](https://www.pyremto.com) and get the app in the Go
 
 # Installation
 
-The easiest way to install the package is to obtain it from PyPy
+The easiest way to install the package is to obtain it from PyPi
 
     python3 -m pip install pyremto
 
