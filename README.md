@@ -7,7 +7,7 @@ The easy way of [monitoring and controlling your Python scripts](https://www.pyr
 - [Remotely Control your python scripts](https://www.pyremto.com/remote-control): Send commands (Strings, integers or floats) from the pyremto app to your python script. More details in [examples/RemoteControl/README.md](https://github.com/MatthiasKi/pyremto/tree/master/examples/RemoteControl).
 - [Job Scheduling](https://www.pyremto.com/job-scheduling): Orchestrate jobs to be distributed on multiple computers / servers. The jobs are distributed from job to job, and thus there is no need to plan in advance on which server which task will be executed. This dynamically adapts the task distribution to the available computing resources, thus maximizing their use. More details in [examples/JobScheduling/GeneralJobScheduling/README.md](https://github.com/MatthiasKi/pyremto/tree/master/examples/JobScheduling/GeneralJobScheduling) as well as in the distributed hyperparameter tuning example [examples/JobScheduling/DistributedHyperparameterSearch/README.md](https://github.com/MatthiasKi/pyremto/tree/master/examples/JobScheduling/DistributedHyperparameterSearch). 
 
-Also check out our [homepage](https://www.pyremto.com) and get the app in the Google Play Store.
+Also check out our [homepage](https://www.pyremto.com) and get the app in the [Google Play Store](https://app.pyremto.com/github).
 
 # Installation
 

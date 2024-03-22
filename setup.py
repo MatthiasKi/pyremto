@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pyremto",
-    version="1.0.3",
+    version="1.0.4",
     author="Matthias Kissel",
     author_email="contact@pyremto.com",
     url='https://www.pyremto.com',
