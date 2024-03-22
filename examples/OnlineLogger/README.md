@@ -1,6 +1,6 @@
 # Pyremto Logging Example
 
-This example script shows how the pyremto package can be used in order to log values (strings, floats or integers) to be seen in the mobile app. Each time a value is logged, it can be chosen if also a push notification should be sent to the mobile phones who registered the tag.
+This example script shows how the pyremto package can be used in order to log values (strings, floats or integers) to be seen in the mobile app (get more infos [here](https://www.pyremto.com/logging-to-smartphone)). Each time a value is logged, it can be chosen if also a push notification should be sent to the mobile phones who registered the tag.
 
 # Setup
 

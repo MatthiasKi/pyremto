@@ -1,6 +1,6 @@
 # Downtime Alarm
 
-This example shows how to set up a downtime alarm with the pyremto package. The use case is that some script should run forever, and you want to get notified when the execution stops. This applies, for example, if some cron job should be executed at a specific interval at a server, and you want to get informed if the execution was not performed or failed. 
+This example shows how to set up a downtime alarm with the pyremto package (find more infos [here](https://www.pyremto.com/downtime-alerts)). The use case is that some script should run forever, and you want to get notified when the execution stops. This applies, for example, if some cron job should be executed at a specific interval at a server, and you want to get informed if the execution was not performed or failed. 
 
 ## Setup
 

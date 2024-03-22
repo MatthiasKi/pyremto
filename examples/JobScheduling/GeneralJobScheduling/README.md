@@ -1,6 +1,6 @@
 # General Job Scheduling Example
 
-The pyremto package can be used for scheduling jobs between different servers / computers. There are several use cases for this:
+The pyremto package can be used for scheduling jobs between different servers / computers (find more infos [here](https://www.pyremto.com/job-scheduling)). There are several use cases for this:
 
 - Distributed Hyperparameter Search (there is another example for this)
 - Performing large computations, which can be packaged into sub-packages executed on different servers

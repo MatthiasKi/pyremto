@@ -1,6 +1,6 @@
 # Remote Control Example
 
-This example script shows how the pyremto package can be used in order to receive commands from the app. By that, you can decide which code should be executed next depending on the previously logged values. For example, if you perform a hyper parameter search, you can adapt the hyperparameters by hand each time the last evaluation completed (by setting the value in the app - no server restarts etc. required). 
+This example script shows how the pyremto package can be used in order to receive commands from the app (get more infos [here](https://www.pyremto.com/remote-control)). By that, you can decide which code should be executed next depending on the previously logged values. For example, if you perform a hyper parameter search, you can adapt the hyperparameters by hand each time the last evaluation completed (by setting the value in the app - no server restarts etc. required). 
 
 # Setup
 
